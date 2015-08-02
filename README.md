@@ -1,2 +1,3 @@
-# My-FreeCodeCamp-Path
-My solutions and their explanations for FreeCodeCamp.com bonfires
+# FreeCodeCamp Journey
+
+What I've done in this site so far :)
